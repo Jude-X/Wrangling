@@ -2,7 +2,7 @@
     "profile": "tabular-data-package",
     "resources": [
       {
-        "name": "Europe Road Safety Dataset",
+        "name": "europe-road-safety",
         "path": "data.csv",
         "profile": "tabular-data-resource",
         "schema": {
