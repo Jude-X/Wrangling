@@ -11,7 +11,7 @@ The Data from that database was scraped from [here]
 ## Data
 
 The source database is made of the 2018 values for each country consisting of the following columns:
-Country,Year,Area,Population,GDP per capita,Population density,Vehicle ownership,Total Road Deaths,Road deaths per Million Inhabitants
+Country, Year, Area, Population, GDP per capita, Population density, Vehicle ownership, Total Road Deaths, Road deaths per Million Inhabitants
 
 I scraped this data and cleaned into a csv file:
 * Dataset - ```data.csv```
