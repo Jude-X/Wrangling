@@ -4,7 +4,7 @@ Road safety in Europe encompasses transportation safety among road users in Euro
 
 The Data from that database was scraped from [here]
 
-[here]: http://www.imf.org/external/ns/cs.aspx?id=29
+[here]: https://en.wikipedia.org/wiki/Road_safety_in_Europe
 
 
 
@@ -14,11 +14,15 @@ The source database is made of the 2018 values for each country consisting of th
 Country,Year,Area,Population,GDP per capita,Population density,Vehicle ownership,Total Road Deaths,Road deaths per Million Inhabitants
 
 I scraped this data and cleaned into a csv file:
-* Dataset - `data.csv` - the dataset
+* Dataset - ```data.csv```
 
 
-## Run Script
-pip3 install -r requirements.txt
+## Run this project locally
 
-python3 app.py
+1. Download and Install Python from https://www.python.org/downloads/
+2. In the root project directory, type ``pip3 install -r requirements.txt`` to install the project's dependencies.
+3. Once installation is complete, type ``python3 app.py`` to start the project in your local browser.
+
+
+
 
