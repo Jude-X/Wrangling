@@ -21,7 +21,7 @@ I scraped this data and cleaned into a csv file:
 
 1. Download and Install Python from https://www.python.org/downloads/
 2. In the root project directory, type ``pip3 install -r requirements.txt`` to install the project's dependencies.
-3. Once installation is complete, type ``python3 app.py`` to start the project in your local browser.
+3. Once installation is complete, type ``python3 app.py`` to run the script.
 
 
 
